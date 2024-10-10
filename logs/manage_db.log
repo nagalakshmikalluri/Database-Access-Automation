@@ -1,0 +1,1115 @@
+2024-08-21 11:45:31,047 - INFO - Master user 'database_access_automation_user_FgoAaJ' created.
+2024-08-21 11:45:31,085 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,085 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,087 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,087 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,113 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,114 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,116 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,116 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,118 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,118 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,120 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,120 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,122 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,123 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,140 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_FgoAaJ -d hms ||--
+2024-08-21 11:45:31,146 - INFO - User 'insta_db_user_GKovOg' with password 'SvYRVkLK4XNF' created and granted access to schema 'cen'.
+2024-08-21 11:45:31,149 - INFO - Created user 'insta_db_user_GKovOg' with password 'SvYRVkLK4XNF' for database 'hms'.
+2024-08-21 11:53:30,089 - INFO - Master user 'database_access_automation_user_wGYKIf' created.
+2024-08-21 11:53:30,100 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,100 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,101 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,102 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,104 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,104 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,133 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,133 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,135 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,135 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,177 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,177 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,180 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,180 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,191 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_wGYKIf -d hms ||--
+2024-08-21 11:53:30,197 - INFO - User 'insta_db_user_pU3Dcj' with password '7uYBkLkwQMHb' created and granted access to schema 'cen'.
+2024-08-21 11:53:30,199 - INFO - Created user 'insta_db_user_pU3Dcj' with password '7uYBkLkwQMHb' for database 'hms'.
+2024-08-21 11:59:28,828 - INFO - Master user 'database_access_automation_user_830zfA' created.
+2024-08-21 11:59:28,834 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,834 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,861 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,861 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,863 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,864 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,865 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,866 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,867 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,868 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,910 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,911 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,914 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,914 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,923 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_830zfA -d hms ||--
+2024-08-21 11:59:28,923 - INFO - Created master user 'database_access_automation_user_lfr0wq' with password 'dcWXJaUcTACl'.
+2024-08-23 12:39:37,385 - INFO - Master user 'database_access_automation_user_H8jb0a' created.
+2024-08-23 12:39:37,411 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,411 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,413 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,413 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,415 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,415 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,468 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,468 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,470 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,471 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,472 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,473 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,517 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,517 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,533 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_H8jb0a -d hms ||--
+2024-08-23 12:39:37,533 - INFO - Created master user 'database_access_automation_user_8vtbrd' with password '5locAZnVWXd6'.
+2024-08-23 12:45:19,874 - INFO - Master user 'database_access_automation_user_pX0TE6' created.
+2024-08-23 12:45:19,880 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,880 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,905 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,906 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,908 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,908 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,909 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,910 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,912 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,912 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,946 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,946 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,949 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,949 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,963 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_pX0TE6 -d hms ||--
+2024-08-23 12:45:19,963 - INFO - Created master user 'database_access_automation_user_7lnl7w' with password 'vUgfX0DLFgLI'.
+2024-08-23 12:45:19,969 - INFO - User 'insta_db_user_pqmBX2' with password 'ygUetRLvx0jJ' created and granted access to schema 'cen'.
+2024-08-23 12:45:19,971 - INFO - Created user 'insta_db_user_lbw8cm' with password 'jbfxw1hrw2IW' for database 'hms'.
+2024-08-23 12:49:59,772 - INFO - Deleted 2 expired users from active_users table.
+2024-08-23 13:04:15,727 - INFO - Master user 'database_access_automation_user_TK9pGz' created.
+2024-08-23 13:04:15,733 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,733 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,734 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,734 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,736 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,736 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,760 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,760 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,763 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,763 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,801 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,802 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,804 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,804 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,816 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_TK9pGz -d hms ||--
+2024-08-23 13:04:15,816 - INFO - Created master user 'database_access_automation_user_b0cx8b' with password 'n07abroHpHUJ'.
+2024-08-23 13:04:15,821 - INFO - User 'insta_db_user_FpeUVx' with password 'Jw2oDnxVBHKL' created and granted access to schema 'cen'.
+2024-08-23 13:04:15,824 - INFO - Created user 'insta_db_user_pwpo8p' with password 'OzhSkIFWOIG9' for database 'hms_qeee'.
+2024-08-26 12:17:06,708 - INFO - Deleted 2 expired users from active_users table.
+2024-08-26 12:17:39,254 - INFO - Master user 'database_access_automation_user_PYP0SN' created.
+2024-08-26 12:17:39,345 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,346 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,349 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,349 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,351 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,351 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,353 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,353 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,355 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,355 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,357 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,357 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,392 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,393 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,410 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_PYP0SN -d hms ||--
+2024-08-26 12:17:39,410 - INFO - Created master user 'database_access_automation_user_ms9zt9' with password '8h3jWPaY2aaf'.
+2024-08-26 12:17:39,416 - INFO - User 'insta_db_user_BMoFe4' with password 'GNJK27jfKq6W' created and granted access to schema 'cen'.
+2024-08-26 12:17:39,418 - INFO - Created user 'insta_db_user_pqh4ca' with password 'Mm6Sx7ScAJhS' for database 'hms'.
+2024-08-27 16:46:02,548 - INFO - Master user 'database_access_automation_user_edicXs' created.
+2024-08-27 16:46:02,574 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,575 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,577 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,577 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,648 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,649 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,682 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,682 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,685 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,685 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,687 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,687 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,689 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,689 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,702 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_edicXs -d hms ||--
+2024-08-27 16:46:02,702 - INFO - Created master user 'database_access_automation_user_ggzats' with password '7HDseTNcrdnY'.
+2024-08-27 16:46:02,707 - INFO - User 'insta_db_user_SJvKrI' with password 'JJBzhgmMSkWX' created and granted access to schema 'cen'.
+2024-08-27 16:46:02,711 - INFO - Created user 'insta_db_user_9yxthd' with password 'xeSwNDnNGOeV' for database 'hms'.
+2024-08-27 16:55:19,785 - INFO - Master user 'database_access_automation_user_GtrdUr' created.
+2024-08-27 16:55:19,790 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,790 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,792 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,792 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,830 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,831 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,833 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,833 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,835 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,835 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,837 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,837 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,865 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,865 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,883 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_GtrdUr -d hms ||--
+2024-08-27 16:55:19,884 - INFO - Created master user 'database_access_automation_user_6lrhsv' with password 'awjC3B6BstPU'.
+2024-08-27 16:55:19,888 - INFO - User 'insta_db_user_Kr7XYj' with password 'Rv4e5M7Pu18n' created and granted access to schema 'cen'.
+2024-08-27 16:55:19,891 - INFO - Created user 'insta_db_user_ryutta' with password '4wnUTiwy4dD7' for database 'hms'.
+2024-08-27 16:57:49,257 - INFO - Master user 'database_access_automation_user_f7GTOJ' created.
+2024-08-27 16:57:49,294 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,294 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,297 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,297 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,299 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,299 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,337 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,337 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,340 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,340 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,342 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,342 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,344 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,344 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,347 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_f7GTOJ -d hms ||--
+2024-08-27 16:57:49,347 - INFO - Created master user 'database_access_automation_user_p63grk' with password '35Gshjrt53LG'.
+2024-08-27 16:57:49,352 - INFO - User 'insta_db_user_91AdSu' with password 'AV5aWfIuzKdU' created and granted access to schema 'cen'.
+2024-08-27 16:57:49,352 - INFO - Updating .pgpass file at: /root/.pgpass
+2024-08-27 16:57:49,352 - INFO - .pgpass file contents:
+localhost:5432:access:insta_db_user_a7767d50:MQo938ebA4NC
+localhost:5432:access:insta_db_user_101b643c:MRtAlyj6MHVh
+localhost:5432:access:insta_db_user_ad682b81:SSVwoQJmtPP9
+localhost:5432:access:insta_db_user_9df1d7aa:UIrgLqzvJOG0
+localhost:5432:access:insta_db_user_99927867:A9t3pKKnj8jG
+localhost:5432:access:insta_db_user_d9261d5c:E8SHffKGWXT6
+localhost:5432:access:insta_db_user_acffd6d1:m0ZQQ06kpUYY
+localhost:5432:access:insta_db_user_1612487a:0uPfp5iBiZrb
+localhost:5432:access:insta_db_user_6c58bb2a:PxVVVbYnKVjJ
+localhost:5432:access:insta_db_user_95793277:fb7tPjneY3ST
+localhost:5432:access:insta_db_user_0f71fa7a:V7csKfy17vS1
+localhost:5432:access:insta_db_user_093d3a1b:xgBY9RhbCYV6
+localhost:5432:access2:insta_db_user_b1046168:ybcB7Px8DtY3
+localhost:5432:access1:insta_db_user_ed8ca4b2:yXCuB9SX1LnI
+localhost:5432:access2:insta_db_user_7779a4ee:ltJvRewtIynS
+localhost:5432:access2:insta_db_user_ff91dec8:6rmeagKtOsbf
+localhost:5432:access1:insta_db_user_e2830ad9:7v1imO3ID7sv
+localhost:5432:access2:insta_db_user_31fa0174:HmNhBhoUVDN6
+localhost:5432:access1:insta_db_user_201497d6:n8gqzxFEX5NB
+localhost:5432:access1:insta_db_user_67f6ca2d:BARWh1apjRK9
+localhost:5432:access1:insta_db_user_5171af92:VbuTPvdLAaPr
+localhost:5432:access1:insta_db_user_39d7e4f9:uPDTzdy9EKFC
+localhost:5432:access1:insta_db_user_6a810735:8M9332h9jLIC
+localhost:5432:access1:insta_db_user_3c41be2b:dQw5U12308r8
+localhost:5432:access2:insta_db_user_e9aa6fa6:wAJEFRUUoHlb
+localhost:5432:access1:insta_db_user_e6a3b62d:ylXtkQHPUnBY
+localhost:5432:access1:insta_db_user_d5c0ff79:gcFlE5qI3YVi
+localhost:5432:access1:insta_db_user_3c0863f6:ff6D7DoP5D3Y
+localhost:5432:access1:insta_db_user_40d9ded1:cq9X7uuJns24
+localhost:5432:access1:insta_db_user_fc9e6bc9:Senqi7RMoiK3
+localhost:5432:access1:insta_db_user_f9ab7bfa:Kcg8n2jj5Pc4
+localhost:5432:access1:insta_db_user_a53face4:Z7kQeDq096dJ
+localhost:5432:access1:insta_db_user_6360d337:p7pvzwu9ys8N
+localhost:5432:access1:insta_db_user_33ac4dde:SKrWkptp5MUF
+localhost:5432:access1:insta_db_user_e4010eb7:WQFq2adXAtq7
+localhost:5432:access1:insta_db_user_39fcb17d:AQD4qLdBjtqr
+localhost:5432:access1:insta_db_user_dfe76c7a:kFPfpLy0gd3z
+localhost:5432:access1:insta_db_user_aa61afc3:LW7lFmYBKhIh
+localhost:5432:access1:insta_db_user_7a23f245:2VRMqzPmvcHj
+localhost:5432:access1:insta_db_user_e980912e:IipFWXIt4cbT
+localhost:5432:access1:insta_db_user_9633ecf9:YvuynC2sW2Cr
+localhost:5432:access2:insta_db_user_535673ee:5FqAkxANvlfI
+localhost:5432:access2:insta_db_user_602c6bb3:lKnaEVG83vLj
+localhost:5432:access2:insta_db_user_fa949e72:Far8mKxjUeaK
+localhost:5432:access2:insta_db_user_6cfcbeff:1Mq8GxmfAprn
+localhost:5432:access2:insta_db_user_53569363:2QUG5Joc7BRL
+localhost:5432:access2:insta_db_user_81ed1689:lPwD9QE2GUYJ
+localhost:5432:access2:insta_db_user_a32b48e3:1YocbTfZkALG
+localhost:5432:access2:insta_db_user_acfb5a05:xAvbITwGUrZy
+localhost:5432:access2:insta_db_user_6cf04b2d:W8NqhJKBSFic
+localhost:5432:access2:insta_db_user_155a3661:F3CD0Q3a1LRH
+localhost:5432:access2:insta_db_user_fc5cc546:GElgbYW2k4uK
+localhost:5432:access2:insta_db_user_59f38da8:QUsu3zz5EOiu
+localhost:5432:access2:insta_db_user_4338f321:0OjnBregrrfZ
+localhost:5432:access2:insta_db_user_443286ff:lZDyV0glGWLs
+localhost:5432:access2:insta_db_user_265d70e3:dwU8zmno4S9x
+localhost:5432:access2:insta_db_user_d72700d3:NWEKDMOw8hxx
+localhost:5432:access2:insta_db_user_73faa8d7:wJsY60D3dLrr
+localhost:5432:access2:insta_db_user_a2d5c861:zPIfSjjh3DFk
+localhost:5432:access2:insta_db_user_311a83ca:W0gkOQQ16Anu
+localhost:5432:access2:insta_db_user_4fdbdaf0:RkVsEGRozoki
+localhost:5432:access2:insta_db_user_0ea6f893:B5hk4qRx97Xq
+localhost:5432:access2:insta_db_user_d43dfbf6:qjEwHotfb7QC
+localhost:5432:access1:insta_db_user_bbb5be8d:HBWwATxgTdK7
+localhost:5432:access1:insta_db_user_26e3b1c4:uF0hkvXrnLmn
+localhost:5432:hms:insta_db_user_ryutta:4wnUTiwy4dD7
+localhost:5432:hms:insta_db_user_tgymnv:M6mzdFO8xAtt
+
+2024-08-27 16:57:49,354 - INFO - Created user 'insta_db_user_tgymnv' with password 'M6mzdFO8xAtt' for database 'hms'.
+2024-08-27 18:00:26,752 - INFO - Updating .pgpass file at: /root/.pgpass with localhost:5432:hms:database_access_automation_user_nu8bzd:dWSZ3WBOjwCN
+2024-08-27 18:00:26,753 - INFO - .pgpass file contents after update:
+localhost:5432:access:insta_db_user_a7767d50:MQo938ebA4NC
+localhost:5432:access:insta_db_user_101b643c:MRtAlyj6MHVh
+localhost:5432:access:insta_db_user_ad682b81:SSVwoQJmtPP9
+localhost:5432:access:insta_db_user_9df1d7aa:UIrgLqzvJOG0
+localhost:5432:access:insta_db_user_99927867:A9t3pKKnj8jG
+localhost:5432:access:insta_db_user_d9261d5c:E8SHffKGWXT6
+localhost:5432:access:insta_db_user_acffd6d1:m0ZQQ06kpUYY
+localhost:5432:access:insta_db_user_1612487a:0uPfp5iBiZrb
+localhost:5432:access:insta_db_user_6c58bb2a:PxVVVbYnKVjJ
+localhost:5432:access:insta_db_user_95793277:fb7tPjneY3ST
+localhost:5432:access:insta_db_user_0f71fa7a:V7csKfy17vS1
+localhost:5432:access:insta_db_user_093d3a1b:xgBY9RhbCYV6
+localhost:5432:access2:insta_db_user_b1046168:ybcB7Px8DtY3
+localhost:5432:access1:insta_db_user_ed8ca4b2:yXCuB9SX1LnI
+localhost:5432:access2:insta_db_user_7779a4ee:ltJvRewtIynS
+localhost:5432:access2:insta_db_user_ff91dec8:6rmeagKtOsbf
+localhost:5432:access1:insta_db_user_e2830ad9:7v1imO3ID7sv
+localhost:5432:access2:insta_db_user_31fa0174:HmNhBhoUVDN6
+localhost:5432:access1:insta_db_user_201497d6:n8gqzxFEX5NB
+localhost:5432:access1:insta_db_user_67f6ca2d:BARWh1apjRK9
+localhost:5432:access1:insta_db_user_5171af92:VbuTPvdLAaPr
+localhost:5432:access1:insta_db_user_39d7e4f9:uPDTzdy9EKFC
+localhost:5432:access1:insta_db_user_6a810735:8M9332h9jLIC
+localhost:5432:access1:insta_db_user_3c41be2b:dQw5U12308r8
+localhost:5432:access2:insta_db_user_e9aa6fa6:wAJEFRUUoHlb
+localhost:5432:access1:insta_db_user_e6a3b62d:ylXtkQHPUnBY
+localhost:5432:access1:insta_db_user_d5c0ff79:gcFlE5qI3YVi
+localhost:5432:access1:insta_db_user_3c0863f6:ff6D7DoP5D3Y
+localhost:5432:access1:insta_db_user_40d9ded1:cq9X7uuJns24
+localhost:5432:access1:insta_db_user_fc9e6bc9:Senqi7RMoiK3
+localhost:5432:access1:insta_db_user_f9ab7bfa:Kcg8n2jj5Pc4
+localhost:5432:access1:insta_db_user_a53face4:Z7kQeDq096dJ
+localhost:5432:access1:insta_db_user_6360d337:p7pvzwu9ys8N
+localhost:5432:access1:insta_db_user_33ac4dde:SKrWkptp5MUF
+localhost:5432:access1:insta_db_user_e4010eb7:WQFq2adXAtq7
+localhost:5432:access1:insta_db_user_39fcb17d:AQD4qLdBjtqr
+localhost:5432:access1:insta_db_user_dfe76c7a:kFPfpLy0gd3z
+localhost:5432:access1:insta_db_user_aa61afc3:LW7lFmYBKhIh
+localhost:5432:access1:insta_db_user_7a23f245:2VRMqzPmvcHj
+localhost:5432:access1:insta_db_user_e980912e:IipFWXIt4cbT
+localhost:5432:access1:insta_db_user_9633ecf9:YvuynC2sW2Cr
+localhost:5432:access2:insta_db_user_535673ee:5FqAkxANvlfI
+localhost:5432:access2:insta_db_user_602c6bb3:lKnaEVG83vLj
+localhost:5432:access2:insta_db_user_fa949e72:Far8mKxjUeaK
+localhost:5432:access2:insta_db_user_6cfcbeff:1Mq8GxmfAprn
+localhost:5432:access2:insta_db_user_53569363:2QUG5Joc7BRL
+localhost:5432:access2:insta_db_user_81ed1689:lPwD9QE2GUYJ
+localhost:5432:access2:insta_db_user_a32b48e3:1YocbTfZkALG
+localhost:5432:access2:insta_db_user_acfb5a05:xAvbITwGUrZy
+localhost:5432:access2:insta_db_user_6cf04b2d:W8NqhJKBSFic
+localhost:5432:access2:insta_db_user_155a3661:F3CD0Q3a1LRH
+localhost:5432:access2:insta_db_user_fc5cc546:GElgbYW2k4uK
+localhost:5432:access2:insta_db_user_59f38da8:QUsu3zz5EOiu
+localhost:5432:access2:insta_db_user_4338f321:0OjnBregrrfZ
+localhost:5432:access2:insta_db_user_443286ff:lZDyV0glGWLs
+localhost:5432:access2:insta_db_user_265d70e3:dwU8zmno4S9x
+localhost:5432:access2:insta_db_user_d72700d3:NWEKDMOw8hxx
+localhost:5432:access2:insta_db_user_73faa8d7:wJsY60D3dLrr
+localhost:5432:access2:insta_db_user_a2d5c861:zPIfSjjh3DFk
+localhost:5432:access2:insta_db_user_311a83ca:W0gkOQQ16Anu
+localhost:5432:access2:insta_db_user_4fdbdaf0:RkVsEGRozoki
+localhost:5432:access2:insta_db_user_0ea6f893:B5hk4qRx97Xq
+localhost:5432:access2:insta_db_user_d43dfbf6:qjEwHotfb7QC
+localhost:5432:access1:insta_db_user_bbb5be8d:HBWwATxgTdK7
+localhost:5432:access1:insta_db_user_26e3b1c4:uF0hkvXrnLmn
+localhost:5432:hms:insta_db_user_ryutta:4wnUTiwy4dD7
+localhost:5432:hms:insta_db_user_tgymnv:M6mzdFO8xAtt
+localhost:5432:hms:database_access_automation_user_nu8bzd:dWSZ3WBOjwCN
+
+2024-08-27 18:00:26,766 - INFO - Master user 'database_access_automation_user_P4uHiR' created.
+2024-08-27 18:00:26,855 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,856 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,858 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,859 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,861 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,861 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,895 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,895 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,898 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,898 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,900 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,900 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,902 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,903 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,920 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_P4uHiR -d hms ||--
+2024-08-27 18:00:26,920 - INFO - Created master user 'database_access_automation_user_nu8bzd' with password 'dWSZ3WBOjwCN'.
+2024-08-27 18:00:26,920 - INFO - Updating .pgpass file at: /root/.pgpass with localhost:5432:hms:insta_db_user_kjqxar:QAJwDfNkG321
+2024-08-27 18:00:26,920 - INFO - .pgpass file contents after update:
+localhost:5432:access:insta_db_user_a7767d50:MQo938ebA4NC
+localhost:5432:access:insta_db_user_101b643c:MRtAlyj6MHVh
+localhost:5432:access:insta_db_user_ad682b81:SSVwoQJmtPP9
+localhost:5432:access:insta_db_user_9df1d7aa:UIrgLqzvJOG0
+localhost:5432:access:insta_db_user_99927867:A9t3pKKnj8jG
+localhost:5432:access:insta_db_user_d9261d5c:E8SHffKGWXT6
+localhost:5432:access:insta_db_user_acffd6d1:m0ZQQ06kpUYY
+localhost:5432:access:insta_db_user_1612487a:0uPfp5iBiZrb
+localhost:5432:access:insta_db_user_6c58bb2a:PxVVVbYnKVjJ
+localhost:5432:access:insta_db_user_95793277:fb7tPjneY3ST
+localhost:5432:access:insta_db_user_0f71fa7a:V7csKfy17vS1
+localhost:5432:access:insta_db_user_093d3a1b:xgBY9RhbCYV6
+localhost:5432:access2:insta_db_user_b1046168:ybcB7Px8DtY3
+localhost:5432:access1:insta_db_user_ed8ca4b2:yXCuB9SX1LnI
+localhost:5432:access2:insta_db_user_7779a4ee:ltJvRewtIynS
+localhost:5432:access2:insta_db_user_ff91dec8:6rmeagKtOsbf
+localhost:5432:access1:insta_db_user_e2830ad9:7v1imO3ID7sv
+localhost:5432:access2:insta_db_user_31fa0174:HmNhBhoUVDN6
+localhost:5432:access1:insta_db_user_201497d6:n8gqzxFEX5NB
+localhost:5432:access1:insta_db_user_67f6ca2d:BARWh1apjRK9
+localhost:5432:access1:insta_db_user_5171af92:VbuTPvdLAaPr
+localhost:5432:access1:insta_db_user_39d7e4f9:uPDTzdy9EKFC
+localhost:5432:access1:insta_db_user_6a810735:8M9332h9jLIC
+localhost:5432:access1:insta_db_user_3c41be2b:dQw5U12308r8
+localhost:5432:access2:insta_db_user_e9aa6fa6:wAJEFRUUoHlb
+localhost:5432:access1:insta_db_user_e6a3b62d:ylXtkQHPUnBY
+localhost:5432:access1:insta_db_user_d5c0ff79:gcFlE5qI3YVi
+localhost:5432:access1:insta_db_user_3c0863f6:ff6D7DoP5D3Y
+localhost:5432:access1:insta_db_user_40d9ded1:cq9X7uuJns24
+localhost:5432:access1:insta_db_user_fc9e6bc9:Senqi7RMoiK3
+localhost:5432:access1:insta_db_user_f9ab7bfa:Kcg8n2jj5Pc4
+localhost:5432:access1:insta_db_user_a53face4:Z7kQeDq096dJ
+localhost:5432:access1:insta_db_user_6360d337:p7pvzwu9ys8N
+localhost:5432:access1:insta_db_user_33ac4dde:SKrWkptp5MUF
+localhost:5432:access1:insta_db_user_e4010eb7:WQFq2adXAtq7
+localhost:5432:access1:insta_db_user_39fcb17d:AQD4qLdBjtqr
+localhost:5432:access1:insta_db_user_dfe76c7a:kFPfpLy0gd3z
+localhost:5432:access1:insta_db_user_aa61afc3:LW7lFmYBKhIh
+localhost:5432:access1:insta_db_user_7a23f245:2VRMqzPmvcHj
+localhost:5432:access1:insta_db_user_e980912e:IipFWXIt4cbT
+localhost:5432:access1:insta_db_user_9633ecf9:YvuynC2sW2Cr
+localhost:5432:access2:insta_db_user_535673ee:5FqAkxANvlfI
+localhost:5432:access2:insta_db_user_602c6bb3:lKnaEVG83vLj
+localhost:5432:access2:insta_db_user_fa949e72:Far8mKxjUeaK
+localhost:5432:access2:insta_db_user_6cfcbeff:1Mq8GxmfAprn
+localhost:5432:access2:insta_db_user_53569363:2QUG5Joc7BRL
+localhost:5432:access2:insta_db_user_81ed1689:lPwD9QE2GUYJ
+localhost:5432:access2:insta_db_user_a32b48e3:1YocbTfZkALG
+localhost:5432:access2:insta_db_user_acfb5a05:xAvbITwGUrZy
+localhost:5432:access2:insta_db_user_6cf04b2d:W8NqhJKBSFic
+localhost:5432:access2:insta_db_user_155a3661:F3CD0Q3a1LRH
+localhost:5432:access2:insta_db_user_fc5cc546:GElgbYW2k4uK
+localhost:5432:access2:insta_db_user_59f38da8:QUsu3zz5EOiu
+localhost:5432:access2:insta_db_user_4338f321:0OjnBregrrfZ
+localhost:5432:access2:insta_db_user_443286ff:lZDyV0glGWLs
+localhost:5432:access2:insta_db_user_265d70e3:dwU8zmno4S9x
+localhost:5432:access2:insta_db_user_d72700d3:NWEKDMOw8hxx
+localhost:5432:access2:insta_db_user_73faa8d7:wJsY60D3dLrr
+localhost:5432:access2:insta_db_user_a2d5c861:zPIfSjjh3DFk
+localhost:5432:access2:insta_db_user_311a83ca:W0gkOQQ16Anu
+localhost:5432:access2:insta_db_user_4fdbdaf0:RkVsEGRozoki
+localhost:5432:access2:insta_db_user_0ea6f893:B5hk4qRx97Xq
+localhost:5432:access2:insta_db_user_d43dfbf6:qjEwHotfb7QC
+localhost:5432:access1:insta_db_user_bbb5be8d:HBWwATxgTdK7
+localhost:5432:access1:insta_db_user_26e3b1c4:uF0hkvXrnLmn
+localhost:5432:hms:insta_db_user_ryutta:4wnUTiwy4dD7
+localhost:5432:hms:insta_db_user_tgymnv:M6mzdFO8xAtt
+localhost:5432:hms:database_access_automation_user_nu8bzd:dWSZ3WBOjwCN
+localhost:5432:hms:insta_db_user_kjqxar:QAJwDfNkG321
+
+2024-08-27 18:00:26,925 - INFO - User 'insta_db_user_ONup5B' with password 'ZAghJOtPQvGh' created and granted access to schema 'cen'.
+2024-08-27 18:00:26,928 - INFO - Created user 'insta_db_user_kjqxar' with password 'QAJwDfNkG321' for database 'hms'.
+2024-08-27 18:03:44,197 - INFO - Updating .pgpass file at: /root/.pgpass with localhost:5432:hms:database_access_automation_user_6d1lk8:Z9A4ZvgdnT2A
+2024-08-27 18:03:44,198 - INFO - .pgpass file contents after update:
+localhost:5432:access:insta_db_user_a7767d50:MQo938ebA4NC
+localhost:5432:access:insta_db_user_101b643c:MRtAlyj6MHVh
+localhost:5432:access:insta_db_user_ad682b81:SSVwoQJmtPP9
+localhost:5432:access:insta_db_user_9df1d7aa:UIrgLqzvJOG0
+localhost:5432:access:insta_db_user_99927867:A9t3pKKnj8jG
+localhost:5432:access:insta_db_user_d9261d5c:E8SHffKGWXT6
+localhost:5432:access:insta_db_user_acffd6d1:m0ZQQ06kpUYY
+localhost:5432:access:insta_db_user_1612487a:0uPfp5iBiZrb
+localhost:5432:access:insta_db_user_6c58bb2a:PxVVVbYnKVjJ
+localhost:5432:access:insta_db_user_95793277:fb7tPjneY3ST
+localhost:5432:access:insta_db_user_0f71fa7a:V7csKfy17vS1
+localhost:5432:access:insta_db_user_093d3a1b:xgBY9RhbCYV6
+localhost:5432:access2:insta_db_user_b1046168:ybcB7Px8DtY3
+localhost:5432:access1:insta_db_user_ed8ca4b2:yXCuB9SX1LnI
+localhost:5432:access2:insta_db_user_7779a4ee:ltJvRewtIynS
+localhost:5432:access2:insta_db_user_ff91dec8:6rmeagKtOsbf
+localhost:5432:access1:insta_db_user_e2830ad9:7v1imO3ID7sv
+localhost:5432:access2:insta_db_user_31fa0174:HmNhBhoUVDN6
+localhost:5432:access1:insta_db_user_201497d6:n8gqzxFEX5NB
+localhost:5432:access1:insta_db_user_67f6ca2d:BARWh1apjRK9
+localhost:5432:access1:insta_db_user_5171af92:VbuTPvdLAaPr
+localhost:5432:access1:insta_db_user_39d7e4f9:uPDTzdy9EKFC
+localhost:5432:access1:insta_db_user_6a810735:8M9332h9jLIC
+localhost:5432:access1:insta_db_user_3c41be2b:dQw5U12308r8
+localhost:5432:access2:insta_db_user_e9aa6fa6:wAJEFRUUoHlb
+localhost:5432:access1:insta_db_user_e6a3b62d:ylXtkQHPUnBY
+localhost:5432:access1:insta_db_user_d5c0ff79:gcFlE5qI3YVi
+localhost:5432:access1:insta_db_user_3c0863f6:ff6D7DoP5D3Y
+localhost:5432:access1:insta_db_user_40d9ded1:cq9X7uuJns24
+localhost:5432:access1:insta_db_user_fc9e6bc9:Senqi7RMoiK3
+localhost:5432:access1:insta_db_user_f9ab7bfa:Kcg8n2jj5Pc4
+localhost:5432:access1:insta_db_user_a53face4:Z7kQeDq096dJ
+localhost:5432:access1:insta_db_user_6360d337:p7pvzwu9ys8N
+localhost:5432:access1:insta_db_user_33ac4dde:SKrWkptp5MUF
+localhost:5432:access1:insta_db_user_e4010eb7:WQFq2adXAtq7
+localhost:5432:access1:insta_db_user_39fcb17d:AQD4qLdBjtqr
+localhost:5432:access1:insta_db_user_dfe76c7a:kFPfpLy0gd3z
+localhost:5432:access1:insta_db_user_aa61afc3:LW7lFmYBKhIh
+localhost:5432:access1:insta_db_user_7a23f245:2VRMqzPmvcHj
+localhost:5432:access1:insta_db_user_e980912e:IipFWXIt4cbT
+localhost:5432:access1:insta_db_user_9633ecf9:YvuynC2sW2Cr
+localhost:5432:access2:insta_db_user_535673ee:5FqAkxANvlfI
+localhost:5432:access2:insta_db_user_602c6bb3:lKnaEVG83vLj
+localhost:5432:access2:insta_db_user_fa949e72:Far8mKxjUeaK
+localhost:5432:access2:insta_db_user_6cfcbeff:1Mq8GxmfAprn
+localhost:5432:access2:insta_db_user_53569363:2QUG5Joc7BRL
+localhost:5432:access2:insta_db_user_81ed1689:lPwD9QE2GUYJ
+localhost:5432:access2:insta_db_user_a32b48e3:1YocbTfZkALG
+localhost:5432:access2:insta_db_user_acfb5a05:xAvbITwGUrZy
+localhost:5432:access2:insta_db_user_6cf04b2d:W8NqhJKBSFic
+localhost:5432:access2:insta_db_user_155a3661:F3CD0Q3a1LRH
+localhost:5432:access2:insta_db_user_fc5cc546:GElgbYW2k4uK
+localhost:5432:access2:insta_db_user_59f38da8:QUsu3zz5EOiu
+localhost:5432:access2:insta_db_user_4338f321:0OjnBregrrfZ
+localhost:5432:access2:insta_db_user_443286ff:lZDyV0glGWLs
+localhost:5432:access2:insta_db_user_265d70e3:dwU8zmno4S9x
+localhost:5432:access2:insta_db_user_d72700d3:NWEKDMOw8hxx
+localhost:5432:access2:insta_db_user_73faa8d7:wJsY60D3dLrr
+localhost:5432:access2:insta_db_user_a2d5c861:zPIfSjjh3DFk
+localhost:5432:access2:insta_db_user_311a83ca:W0gkOQQ16Anu
+localhost:5432:access2:insta_db_user_4fdbdaf0:RkVsEGRozoki
+localhost:5432:access2:insta_db_user_0ea6f893:B5hk4qRx97Xq
+localhost:5432:access2:insta_db_user_d43dfbf6:qjEwHotfb7QC
+localhost:5432:access1:insta_db_user_bbb5be8d:HBWwATxgTdK7
+localhost:5432:access1:insta_db_user_26e3b1c4:uF0hkvXrnLmn
+localhost:5432:hms:insta_db_user_ryutta:4wnUTiwy4dD7
+localhost:5432:hms:insta_db_user_tgymnv:M6mzdFO8xAtt
+localhost:5432:hms:database_access_automation_user_nu8bzd:dWSZ3WBOjwCN
+localhost:5432:hms:insta_db_user_kjqxar:QAJwDfNkG321
+localhost:5432:hms:database_access_automation_user_6d1lk8:Z9A4ZvgdnT2A
+
+2024-08-27 18:03:44,202 - INFO - Master user 'database_access_automation_user_amLen4' created.
+2024-08-27 18:03:44,245 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,245 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,247 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,248 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,249 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,250 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,252 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,252 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,299 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,299 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,302 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,302 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,306 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,307 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,307 - INFO - Updated .pgpass file with master user credentials.
+2024-08-27 18:03:44,312 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_amLen4 -d hms ||--
+2024-08-27 18:03:44,312 - INFO - Created master user 'database_access_automation_user_6d1lk8' with password 'Z9A4ZvgdnT2A'.
+2024-08-27 18:03:44,312 - INFO - Updating .pgpass file at: /root/.pgpass with localhost:5432:hms:insta_db_user_6pgnxh:TwPOKfqReOfD
+2024-08-27 18:03:44,312 - INFO - .pgpass file contents after update:
+localhost:5432:access:insta_db_user_a7767d50:MQo938ebA4NC
+localhost:5432:access:insta_db_user_101b643c:MRtAlyj6MHVh
+localhost:5432:access:insta_db_user_ad682b81:SSVwoQJmtPP9
+localhost:5432:access:insta_db_user_9df1d7aa:UIrgLqzvJOG0
+localhost:5432:access:insta_db_user_99927867:A9t3pKKnj8jG
+localhost:5432:access:insta_db_user_d9261d5c:E8SHffKGWXT6
+localhost:5432:access:insta_db_user_acffd6d1:m0ZQQ06kpUYY
+localhost:5432:access:insta_db_user_1612487a:0uPfp5iBiZrb
+localhost:5432:access:insta_db_user_6c58bb2a:PxVVVbYnKVjJ
+localhost:5432:access:insta_db_user_95793277:fb7tPjneY3ST
+localhost:5432:access:insta_db_user_0f71fa7a:V7csKfy17vS1
+localhost:5432:access:insta_db_user_093d3a1b:xgBY9RhbCYV6
+localhost:5432:access2:insta_db_user_b1046168:ybcB7Px8DtY3
+localhost:5432:access1:insta_db_user_ed8ca4b2:yXCuB9SX1LnI
+localhost:5432:access2:insta_db_user_7779a4ee:ltJvRewtIynS
+localhost:5432:access2:insta_db_user_ff91dec8:6rmeagKtOsbf
+localhost:5432:access1:insta_db_user_e2830ad9:7v1imO3ID7sv
+localhost:5432:access2:insta_db_user_31fa0174:HmNhBhoUVDN6
+localhost:5432:access1:insta_db_user_201497d6:n8gqzxFEX5NB
+localhost:5432:access1:insta_db_user_67f6ca2d:BARWh1apjRK9
+localhost:5432:access1:insta_db_user_5171af92:VbuTPvdLAaPr
+localhost:5432:access1:insta_db_user_39d7e4f9:uPDTzdy9EKFC
+localhost:5432:access1:insta_db_user_6a810735:8M9332h9jLIC
+localhost:5432:access1:insta_db_user_3c41be2b:dQw5U12308r8
+localhost:5432:access2:insta_db_user_e9aa6fa6:wAJEFRUUoHlb
+localhost:5432:access1:insta_db_user_e6a3b62d:ylXtkQHPUnBY
+localhost:5432:access1:insta_db_user_d5c0ff79:gcFlE5qI3YVi
+localhost:5432:access1:insta_db_user_3c0863f6:ff6D7DoP5D3Y
+localhost:5432:access1:insta_db_user_40d9ded1:cq9X7uuJns24
+localhost:5432:access1:insta_db_user_fc9e6bc9:Senqi7RMoiK3
+localhost:5432:access1:insta_db_user_f9ab7bfa:Kcg8n2jj5Pc4
+localhost:5432:access1:insta_db_user_a53face4:Z7kQeDq096dJ
+localhost:5432:access1:insta_db_user_6360d337:p7pvzwu9ys8N
+localhost:5432:access1:insta_db_user_33ac4dde:SKrWkptp5MUF
+localhost:5432:access1:insta_db_user_e4010eb7:WQFq2adXAtq7
+localhost:5432:access1:insta_db_user_39fcb17d:AQD4qLdBjtqr
+localhost:5432:access1:insta_db_user_dfe76c7a:kFPfpLy0gd3z
+localhost:5432:access1:insta_db_user_aa61afc3:LW7lFmYBKhIh
+localhost:5432:access1:insta_db_user_7a23f245:2VRMqzPmvcHj
+localhost:5432:access1:insta_db_user_e980912e:IipFWXIt4cbT
+localhost:5432:access1:insta_db_user_9633ecf9:YvuynC2sW2Cr
+localhost:5432:access2:insta_db_user_535673ee:5FqAkxANvlfI
+localhost:5432:access2:insta_db_user_602c6bb3:lKnaEVG83vLj
+localhost:5432:access2:insta_db_user_fa949e72:Far8mKxjUeaK
+localhost:5432:access2:insta_db_user_6cfcbeff:1Mq8GxmfAprn
+localhost:5432:access2:insta_db_user_53569363:2QUG5Joc7BRL
+localhost:5432:access2:insta_db_user_81ed1689:lPwD9QE2GUYJ
+localhost:5432:access2:insta_db_user_a32b48e3:1YocbTfZkALG
+localhost:5432:access2:insta_db_user_acfb5a05:xAvbITwGUrZy
+localhost:5432:access2:insta_db_user_6cf04b2d:W8NqhJKBSFic
+localhost:5432:access2:insta_db_user_155a3661:F3CD0Q3a1LRH
+localhost:5432:access2:insta_db_user_fc5cc546:GElgbYW2k4uK
+localhost:5432:access2:insta_db_user_59f38da8:QUsu3zz5EOiu
+localhost:5432:access2:insta_db_user_4338f321:0OjnBregrrfZ
+localhost:5432:access2:insta_db_user_443286ff:lZDyV0glGWLs
+localhost:5432:access2:insta_db_user_265d70e3:dwU8zmno4S9x
+localhost:5432:access2:insta_db_user_d72700d3:NWEKDMOw8hxx
+localhost:5432:access2:insta_db_user_73faa8d7:wJsY60D3dLrr
+localhost:5432:access2:insta_db_user_a2d5c861:zPIfSjjh3DFk
+localhost:5432:access2:insta_db_user_311a83ca:W0gkOQQ16Anu
+localhost:5432:access2:insta_db_user_4fdbdaf0:RkVsEGRozoki
+localhost:5432:access2:insta_db_user_0ea6f893:B5hk4qRx97Xq
+localhost:5432:access2:insta_db_user_d43dfbf6:qjEwHotfb7QC
+localhost:5432:access1:insta_db_user_bbb5be8d:HBWwATxgTdK7
+localhost:5432:access1:insta_db_user_26e3b1c4:uF0hkvXrnLmn
+localhost:5432:hms:insta_db_user_ryutta:4wnUTiwy4dD7
+localhost:5432:hms:insta_db_user_tgymnv:M6mzdFO8xAtt
+localhost:5432:hms:database_access_automation_user_nu8bzd:dWSZ3WBOjwCN
+localhost:5432:hms:insta_db_user_kjqxar:QAJwDfNkG321
+localhost:5432:hms:database_access_automation_user_6d1lk8:Z9A4ZvgdnT2A
+localhost:5432:hms:insta_db_user_6pgnxh:TwPOKfqReOfD
+
+2024-08-27 18:03:44,317 - INFO - User 'insta_db_user_KGXrgb' with password '4hctKXHXq4Qi' created and granted access to schema 'cen'.
+2024-08-27 18:03:44,317 - INFO - Updated .pgpass file with user credentials.
+2024-08-27 18:03:44,320 - INFO - Created user 'insta_db_user_6pgnxh' with password 'TwPOKfqReOfD' for database 'hms'.
+2024-08-27 18:08:58,886 - INFO - Updating .pgpass file at: /root/.pgpass with localhost:5432:hms:database_access_automation_user_n5wd76:zE22E0aLBfFP
+2024-08-27 18:08:58,886 - INFO - .pgpass file contents after update:
+localhost:5432:access:insta_db_user_a7767d50:MQo938ebA4NC
+localhost:5432:access:insta_db_user_101b643c:MRtAlyj6MHVh
+localhost:5432:access:insta_db_user_ad682b81:SSVwoQJmtPP9
+localhost:5432:access:insta_db_user_9df1d7aa:UIrgLqzvJOG0
+localhost:5432:access:insta_db_user_99927867:A9t3pKKnj8jG
+localhost:5432:access:insta_db_user_d9261d5c:E8SHffKGWXT6
+localhost:5432:access:insta_db_user_acffd6d1:m0ZQQ06kpUYY
+localhost:5432:access:insta_db_user_1612487a:0uPfp5iBiZrb
+localhost:5432:access:insta_db_user_6c58bb2a:PxVVVbYnKVjJ
+localhost:5432:access:insta_db_user_95793277:fb7tPjneY3ST
+localhost:5432:access:insta_db_user_0f71fa7a:V7csKfy17vS1
+localhost:5432:access:insta_db_user_093d3a1b:xgBY9RhbCYV6
+localhost:5432:access2:insta_db_user_b1046168:ybcB7Px8DtY3
+localhost:5432:access1:insta_db_user_ed8ca4b2:yXCuB9SX1LnI
+localhost:5432:access2:insta_db_user_7779a4ee:ltJvRewtIynS
+localhost:5432:access2:insta_db_user_ff91dec8:6rmeagKtOsbf
+localhost:5432:access1:insta_db_user_e2830ad9:7v1imO3ID7sv
+localhost:5432:access2:insta_db_user_31fa0174:HmNhBhoUVDN6
+localhost:5432:access1:insta_db_user_201497d6:n8gqzxFEX5NB
+localhost:5432:access1:insta_db_user_67f6ca2d:BARWh1apjRK9
+localhost:5432:access1:insta_db_user_5171af92:VbuTPvdLAaPr
+localhost:5432:access1:insta_db_user_39d7e4f9:uPDTzdy9EKFC
+localhost:5432:access1:insta_db_user_6a810735:8M9332h9jLIC
+localhost:5432:access1:insta_db_user_3c41be2b:dQw5U12308r8
+localhost:5432:access2:insta_db_user_e9aa6fa6:wAJEFRUUoHlb
+localhost:5432:access1:insta_db_user_e6a3b62d:ylXtkQHPUnBY
+localhost:5432:access1:insta_db_user_d5c0ff79:gcFlE5qI3YVi
+localhost:5432:access1:insta_db_user_3c0863f6:ff6D7DoP5D3Y
+localhost:5432:access1:insta_db_user_40d9ded1:cq9X7uuJns24
+localhost:5432:access1:insta_db_user_fc9e6bc9:Senqi7RMoiK3
+localhost:5432:access1:insta_db_user_f9ab7bfa:Kcg8n2jj5Pc4
+localhost:5432:access1:insta_db_user_a53face4:Z7kQeDq096dJ
+localhost:5432:access1:insta_db_user_6360d337:p7pvzwu9ys8N
+localhost:5432:access1:insta_db_user_33ac4dde:SKrWkptp5MUF
+localhost:5432:access1:insta_db_user_e4010eb7:WQFq2adXAtq7
+localhost:5432:access1:insta_db_user_39fcb17d:AQD4qLdBjtqr
+localhost:5432:access1:insta_db_user_dfe76c7a:kFPfpLy0gd3z
+localhost:5432:access1:insta_db_user_aa61afc3:LW7lFmYBKhIh
+localhost:5432:access1:insta_db_user_7a23f245:2VRMqzPmvcHj
+localhost:5432:access1:insta_db_user_e980912e:IipFWXIt4cbT
+localhost:5432:access1:insta_db_user_9633ecf9:YvuynC2sW2Cr
+localhost:5432:access2:insta_db_user_535673ee:5FqAkxANvlfI
+localhost:5432:access2:insta_db_user_602c6bb3:lKnaEVG83vLj
+localhost:5432:access2:insta_db_user_fa949e72:Far8mKxjUeaK
+localhost:5432:access2:insta_db_user_6cfcbeff:1Mq8GxmfAprn
+localhost:5432:access2:insta_db_user_53569363:2QUG5Joc7BRL
+localhost:5432:access2:insta_db_user_81ed1689:lPwD9QE2GUYJ
+localhost:5432:access2:insta_db_user_a32b48e3:1YocbTfZkALG
+localhost:5432:access2:insta_db_user_acfb5a05:xAvbITwGUrZy
+localhost:5432:access2:insta_db_user_6cf04b2d:W8NqhJKBSFic
+localhost:5432:access2:insta_db_user_155a3661:F3CD0Q3a1LRH
+localhost:5432:access2:insta_db_user_fc5cc546:GElgbYW2k4uK
+localhost:5432:access2:insta_db_user_59f38da8:QUsu3zz5EOiu
+localhost:5432:access2:insta_db_user_4338f321:0OjnBregrrfZ
+localhost:5432:access2:insta_db_user_443286ff:lZDyV0glGWLs
+localhost:5432:access2:insta_db_user_265d70e3:dwU8zmno4S9x
+localhost:5432:access2:insta_db_user_d72700d3:NWEKDMOw8hxx
+localhost:5432:access2:insta_db_user_73faa8d7:wJsY60D3dLrr
+localhost:5432:access2:insta_db_user_a2d5c861:zPIfSjjh3DFk
+localhost:5432:access2:insta_db_user_311a83ca:W0gkOQQ16Anu
+localhost:5432:access2:insta_db_user_4fdbdaf0:RkVsEGRozoki
+localhost:5432:access2:insta_db_user_0ea6f893:B5hk4qRx97Xq
+localhost:5432:access2:insta_db_user_d43dfbf6:qjEwHotfb7QC
+localhost:5432:access1:insta_db_user_bbb5be8d:HBWwATxgTdK7
+localhost:5432:access1:insta_db_user_26e3b1c4:uF0hkvXrnLmn
+localhost:5432:hms:insta_db_user_ryutta:4wnUTiwy4dD7
+localhost:5432:hms:insta_db_user_tgymnv:M6mzdFO8xAtt
+localhost:5432:hms:database_access_automation_user_nu8bzd:dWSZ3WBOjwCN
+localhost:5432:hms:insta_db_user_kjqxar:QAJwDfNkG321
+localhost:5432:hms:database_access_automation_user_6d1lk8:Z9A4ZvgdnT2A
+localhost:5432:hms:insta_db_user_6pgnxh:TwPOKfqReOfD
+localhost:5432:hms:database_access_automation_user_n5wd76:zE22E0aLBfFP
+
+2024-08-27 18:08:58,891 - INFO - Master user 'database_access_automation_user_aHynZF' created.
+2024-08-27 18:08:58,934 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,935 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,937 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,937 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,939 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,939 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,971 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,971 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,974 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,974 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,976 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,976 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,978 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,979 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,979 - INFO - Updated .pgpass file with master user credentials.
+2024-08-27 18:08:58,988 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_aHynZF -d hms ||--
+2024-08-27 18:08:58,988 - INFO - Created master user 'database_access_automation_user_n5wd76' with password 'zE22E0aLBfFP'.
+2024-08-27 18:08:58,989 - INFO - Updating .pgpass file at: /root/.pgpass with localhost:5432:hms:insta_db_user_rjqs0a:iIYavB39S0aY
+2024-08-27 18:08:58,989 - INFO - .pgpass file contents after update:
+localhost:5432:access:insta_db_user_a7767d50:MQo938ebA4NC
+localhost:5432:access:insta_db_user_101b643c:MRtAlyj6MHVh
+localhost:5432:access:insta_db_user_ad682b81:SSVwoQJmtPP9
+localhost:5432:access:insta_db_user_9df1d7aa:UIrgLqzvJOG0
+localhost:5432:access:insta_db_user_99927867:A9t3pKKnj8jG
+localhost:5432:access:insta_db_user_d9261d5c:E8SHffKGWXT6
+localhost:5432:access:insta_db_user_acffd6d1:m0ZQQ06kpUYY
+localhost:5432:access:insta_db_user_1612487a:0uPfp5iBiZrb
+localhost:5432:access:insta_db_user_6c58bb2a:PxVVVbYnKVjJ
+localhost:5432:access:insta_db_user_95793277:fb7tPjneY3ST
+localhost:5432:access:insta_db_user_0f71fa7a:V7csKfy17vS1
+localhost:5432:access:insta_db_user_093d3a1b:xgBY9RhbCYV6
+localhost:5432:access2:insta_db_user_b1046168:ybcB7Px8DtY3
+localhost:5432:access1:insta_db_user_ed8ca4b2:yXCuB9SX1LnI
+localhost:5432:access2:insta_db_user_7779a4ee:ltJvRewtIynS
+localhost:5432:access2:insta_db_user_ff91dec8:6rmeagKtOsbf
+localhost:5432:access1:insta_db_user_e2830ad9:7v1imO3ID7sv
+localhost:5432:access2:insta_db_user_31fa0174:HmNhBhoUVDN6
+localhost:5432:access1:insta_db_user_201497d6:n8gqzxFEX5NB
+localhost:5432:access1:insta_db_user_67f6ca2d:BARWh1apjRK9
+localhost:5432:access1:insta_db_user_5171af92:VbuTPvdLAaPr
+localhost:5432:access1:insta_db_user_39d7e4f9:uPDTzdy9EKFC
+localhost:5432:access1:insta_db_user_6a810735:8M9332h9jLIC
+localhost:5432:access1:insta_db_user_3c41be2b:dQw5U12308r8
+localhost:5432:access2:insta_db_user_e9aa6fa6:wAJEFRUUoHlb
+localhost:5432:access1:insta_db_user_e6a3b62d:ylXtkQHPUnBY
+localhost:5432:access1:insta_db_user_d5c0ff79:gcFlE5qI3YVi
+localhost:5432:access1:insta_db_user_3c0863f6:ff6D7DoP5D3Y
+localhost:5432:access1:insta_db_user_40d9ded1:cq9X7uuJns24
+localhost:5432:access1:insta_db_user_fc9e6bc9:Senqi7RMoiK3
+localhost:5432:access1:insta_db_user_f9ab7bfa:Kcg8n2jj5Pc4
+localhost:5432:access1:insta_db_user_a53face4:Z7kQeDq096dJ
+localhost:5432:access1:insta_db_user_6360d337:p7pvzwu9ys8N
+localhost:5432:access1:insta_db_user_33ac4dde:SKrWkptp5MUF
+localhost:5432:access1:insta_db_user_e4010eb7:WQFq2adXAtq7
+localhost:5432:access1:insta_db_user_39fcb17d:AQD4qLdBjtqr
+localhost:5432:access1:insta_db_user_dfe76c7a:kFPfpLy0gd3z
+localhost:5432:access1:insta_db_user_aa61afc3:LW7lFmYBKhIh
+localhost:5432:access1:insta_db_user_7a23f245:2VRMqzPmvcHj
+localhost:5432:access1:insta_db_user_e980912e:IipFWXIt4cbT
+localhost:5432:access1:insta_db_user_9633ecf9:YvuynC2sW2Cr
+localhost:5432:access2:insta_db_user_535673ee:5FqAkxANvlfI
+localhost:5432:access2:insta_db_user_602c6bb3:lKnaEVG83vLj
+localhost:5432:access2:insta_db_user_fa949e72:Far8mKxjUeaK
+localhost:5432:access2:insta_db_user_6cfcbeff:1Mq8GxmfAprn
+localhost:5432:access2:insta_db_user_53569363:2QUG5Joc7BRL
+localhost:5432:access2:insta_db_user_81ed1689:lPwD9QE2GUYJ
+localhost:5432:access2:insta_db_user_a32b48e3:1YocbTfZkALG
+localhost:5432:access2:insta_db_user_acfb5a05:xAvbITwGUrZy
+localhost:5432:access2:insta_db_user_6cf04b2d:W8NqhJKBSFic
+localhost:5432:access2:insta_db_user_155a3661:F3CD0Q3a1LRH
+localhost:5432:access2:insta_db_user_fc5cc546:GElgbYW2k4uK
+localhost:5432:access2:insta_db_user_59f38da8:QUsu3zz5EOiu
+localhost:5432:access2:insta_db_user_4338f321:0OjnBregrrfZ
+localhost:5432:access2:insta_db_user_443286ff:lZDyV0glGWLs
+localhost:5432:access2:insta_db_user_265d70e3:dwU8zmno4S9x
+localhost:5432:access2:insta_db_user_d72700d3:NWEKDMOw8hxx
+localhost:5432:access2:insta_db_user_73faa8d7:wJsY60D3dLrr
+localhost:5432:access2:insta_db_user_a2d5c861:zPIfSjjh3DFk
+localhost:5432:access2:insta_db_user_311a83ca:W0gkOQQ16Anu
+localhost:5432:access2:insta_db_user_4fdbdaf0:RkVsEGRozoki
+localhost:5432:access2:insta_db_user_0ea6f893:B5hk4qRx97Xq
+localhost:5432:access2:insta_db_user_d43dfbf6:qjEwHotfb7QC
+localhost:5432:access1:insta_db_user_bbb5be8d:HBWwATxgTdK7
+localhost:5432:access1:insta_db_user_26e3b1c4:uF0hkvXrnLmn
+localhost:5432:hms:insta_db_user_ryutta:4wnUTiwy4dD7
+localhost:5432:hms:insta_db_user_tgymnv:M6mzdFO8xAtt
+localhost:5432:hms:database_access_automation_user_nu8bzd:dWSZ3WBOjwCN
+localhost:5432:hms:insta_db_user_kjqxar:QAJwDfNkG321
+localhost:5432:hms:database_access_automation_user_6d1lk8:Z9A4ZvgdnT2A
+localhost:5432:hms:insta_db_user_6pgnxh:TwPOKfqReOfD
+localhost:5432:hms:database_access_automation_user_n5wd76:zE22E0aLBfFP
+localhost:5432:hms:insta_db_user_rjqs0a:iIYavB39S0aY
+
+2024-08-27 18:08:58,995 - INFO - User 'insta_db_user_zoTmI4' with password 'F1fEXgLf5JUQ' created and granted access to schema 'cen'.
+2024-08-27 18:08:58,996 - INFO - Updated .pgpass file with user credentials.
+2024-08-27 18:08:58,999 - INFO - Created user 'insta_db_user_rjqs0a' with password 'iIYavB39S0aY' for database 'hms'.
+2024-08-27 18:09:50,256 - INFO - Deleted 1 expired users from active_users table.
+2024-09-16 13:51:21,602 - INFO - Updating .pgpass file at: /root/.pgpass with localhost:5432:hms:database_access_automation_user_s59pw2:So94krux6qbq
+2024-09-16 13:51:21,602 - INFO - .pgpass file contents after update:
+localhost:5432:access:insta_db_user_a7767d50:MQo938ebA4NC
+localhost:5432:access:insta_db_user_101b643c:MRtAlyj6MHVh
+localhost:5432:access:insta_db_user_ad682b81:SSVwoQJmtPP9
+localhost:5432:access:insta_db_user_9df1d7aa:UIrgLqzvJOG0
+localhost:5432:access:insta_db_user_99927867:A9t3pKKnj8jG
+localhost:5432:access:insta_db_user_d9261d5c:E8SHffKGWXT6
+localhost:5432:access:insta_db_user_acffd6d1:m0ZQQ06kpUYY
+localhost:5432:access:insta_db_user_1612487a:0uPfp5iBiZrb
+localhost:5432:access:insta_db_user_6c58bb2a:PxVVVbYnKVjJ
+localhost:5432:access:insta_db_user_95793277:fb7tPjneY3ST
+localhost:5432:access:insta_db_user_0f71fa7a:V7csKfy17vS1
+localhost:5432:access:insta_db_user_093d3a1b:xgBY9RhbCYV6
+localhost:5432:access2:insta_db_user_b1046168:ybcB7Px8DtY3
+localhost:5432:access1:insta_db_user_ed8ca4b2:yXCuB9SX1LnI
+localhost:5432:access2:insta_db_user_7779a4ee:ltJvRewtIynS
+localhost:5432:access2:insta_db_user_ff91dec8:6rmeagKtOsbf
+localhost:5432:access1:insta_db_user_e2830ad9:7v1imO3ID7sv
+localhost:5432:access2:insta_db_user_31fa0174:HmNhBhoUVDN6
+localhost:5432:access1:insta_db_user_201497d6:n8gqzxFEX5NB
+localhost:5432:access1:insta_db_user_67f6ca2d:BARWh1apjRK9
+localhost:5432:access1:insta_db_user_5171af92:VbuTPvdLAaPr
+localhost:5432:access1:insta_db_user_39d7e4f9:uPDTzdy9EKFC
+localhost:5432:access1:insta_db_user_6a810735:8M9332h9jLIC
+localhost:5432:access1:insta_db_user_3c41be2b:dQw5U12308r8
+localhost:5432:access2:insta_db_user_e9aa6fa6:wAJEFRUUoHlb
+localhost:5432:access1:insta_db_user_e6a3b62d:ylXtkQHPUnBY
+localhost:5432:access1:insta_db_user_d5c0ff79:gcFlE5qI3YVi
+localhost:5432:access1:insta_db_user_3c0863f6:ff6D7DoP5D3Y
+localhost:5432:access1:insta_db_user_40d9ded1:cq9X7uuJns24
+localhost:5432:access1:insta_db_user_fc9e6bc9:Senqi7RMoiK3
+localhost:5432:access1:insta_db_user_f9ab7bfa:Kcg8n2jj5Pc4
+localhost:5432:access1:insta_db_user_a53face4:Z7kQeDq096dJ
+localhost:5432:access1:insta_db_user_6360d337:p7pvzwu9ys8N
+localhost:5432:access1:insta_db_user_33ac4dde:SKrWkptp5MUF
+localhost:5432:access1:insta_db_user_e4010eb7:WQFq2adXAtq7
+localhost:5432:access1:insta_db_user_39fcb17d:AQD4qLdBjtqr
+localhost:5432:access1:insta_db_user_dfe76c7a:kFPfpLy0gd3z
+localhost:5432:access1:insta_db_user_aa61afc3:LW7lFmYBKhIh
+localhost:5432:access1:insta_db_user_7a23f245:2VRMqzPmvcHj
+localhost:5432:access1:insta_db_user_e980912e:IipFWXIt4cbT
+localhost:5432:access1:insta_db_user_9633ecf9:YvuynC2sW2Cr
+localhost:5432:access2:insta_db_user_535673ee:5FqAkxANvlfI
+localhost:5432:access2:insta_db_user_602c6bb3:lKnaEVG83vLj
+localhost:5432:access2:insta_db_user_fa949e72:Far8mKxjUeaK
+localhost:5432:access2:insta_db_user_6cfcbeff:1Mq8GxmfAprn
+localhost:5432:access2:insta_db_user_53569363:2QUG5Joc7BRL
+localhost:5432:access2:insta_db_user_81ed1689:lPwD9QE2GUYJ
+localhost:5432:access2:insta_db_user_a32b48e3:1YocbTfZkALG
+localhost:5432:access2:insta_db_user_acfb5a05:xAvbITwGUrZy
+localhost:5432:access2:insta_db_user_6cf04b2d:W8NqhJKBSFic
+localhost:5432:access2:insta_db_user_155a3661:F3CD0Q3a1LRH
+localhost:5432:access2:insta_db_user_fc5cc546:GElgbYW2k4uK
+localhost:5432:access2:insta_db_user_59f38da8:QUsu3zz5EOiu
+localhost:5432:access2:insta_db_user_4338f321:0OjnBregrrfZ
+localhost:5432:access2:insta_db_user_443286ff:lZDyV0glGWLs
+localhost:5432:access2:insta_db_user_265d70e3:dwU8zmno4S9x
+localhost:5432:access2:insta_db_user_d72700d3:NWEKDMOw8hxx
+localhost:5432:access2:insta_db_user_73faa8d7:wJsY60D3dLrr
+localhost:5432:access2:insta_db_user_a2d5c861:zPIfSjjh3DFk
+localhost:5432:access2:insta_db_user_311a83ca:W0gkOQQ16Anu
+localhost:5432:access2:insta_db_user_4fdbdaf0:RkVsEGRozoki
+localhost:5432:access2:insta_db_user_0ea6f893:B5hk4qRx97Xq
+localhost:5432:access2:insta_db_user_d43dfbf6:qjEwHotfb7QC
+localhost:5432:access1:insta_db_user_bbb5be8d:HBWwATxgTdK7
+localhost:5432:access1:insta_db_user_26e3b1c4:uF0hkvXrnLmn
+localhost:5432:hms:insta_db_user_ryutta:4wnUTiwy4dD7
+localhost:5432:hms:insta_db_user_tgymnv:M6mzdFO8xAtt
+localhost:5432:hms:database_access_automation_user_nu8bzd:dWSZ3WBOjwCN
+localhost:5432:hms:insta_db_user_kjqxar:QAJwDfNkG321
+localhost:5432:hms:database_access_automation_user_6d1lk8:Z9A4ZvgdnT2A
+localhost:5432:hms:insta_db_user_6pgnxh:TwPOKfqReOfD
+localhost:5432:hms:database_access_automation_user_n5wd76:zE22E0aLBfFP
+localhost:5432:hms:insta_db_user_rjqs0a:iIYavB39S0aY
+localhost:5432:hms:database_access_automation_user_s59pw2:So94krux6qbq
+
+2024-09-16 13:51:21,621 - INFO - Master user 'database_access_automation_user_pwnAc1' created.
+2024-09-16 13:51:21,721 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,722 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,725 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,725 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,726 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,727 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,729 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,729 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,767 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,768 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,770 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,771 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,773 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,773 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,773 - INFO - Updated .pgpass file with master user credentials.
+2024-09-16 13:51:21,788 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_pwnAc1 -d hms ||--
+2024-09-16 13:51:21,788 - INFO - Created master user 'database_access_automation_user_s59pw2' with password 'So94krux6qbq'.
+2024-09-16 13:51:21,788 - INFO - Updating .pgpass file at: /root/.pgpass with localhost:5432:hms:insta_db_user_t5ljcp:MAHdqXMworwi
+2024-09-16 13:51:21,788 - INFO - .pgpass file contents after update:
+localhost:5432:access:insta_db_user_a7767d50:MQo938ebA4NC
+localhost:5432:access:insta_db_user_101b643c:MRtAlyj6MHVh
+localhost:5432:access:insta_db_user_ad682b81:SSVwoQJmtPP9
+localhost:5432:access:insta_db_user_9df1d7aa:UIrgLqzvJOG0
+localhost:5432:access:insta_db_user_99927867:A9t3pKKnj8jG
+localhost:5432:access:insta_db_user_d9261d5c:E8SHffKGWXT6
+localhost:5432:access:insta_db_user_acffd6d1:m0ZQQ06kpUYY
+localhost:5432:access:insta_db_user_1612487a:0uPfp5iBiZrb
+localhost:5432:access:insta_db_user_6c58bb2a:PxVVVbYnKVjJ
+localhost:5432:access:insta_db_user_95793277:fb7tPjneY3ST
+localhost:5432:access:insta_db_user_0f71fa7a:V7csKfy17vS1
+localhost:5432:access:insta_db_user_093d3a1b:xgBY9RhbCYV6
+localhost:5432:access2:insta_db_user_b1046168:ybcB7Px8DtY3
+localhost:5432:access1:insta_db_user_ed8ca4b2:yXCuB9SX1LnI
+localhost:5432:access2:insta_db_user_7779a4ee:ltJvRewtIynS
+localhost:5432:access2:insta_db_user_ff91dec8:6rmeagKtOsbf
+localhost:5432:access1:insta_db_user_e2830ad9:7v1imO3ID7sv
+localhost:5432:access2:insta_db_user_31fa0174:HmNhBhoUVDN6
+localhost:5432:access1:insta_db_user_201497d6:n8gqzxFEX5NB
+localhost:5432:access1:insta_db_user_67f6ca2d:BARWh1apjRK9
+localhost:5432:access1:insta_db_user_5171af92:VbuTPvdLAaPr
+localhost:5432:access1:insta_db_user_39d7e4f9:uPDTzdy9EKFC
+localhost:5432:access1:insta_db_user_6a810735:8M9332h9jLIC
+localhost:5432:access1:insta_db_user_3c41be2b:dQw5U12308r8
+localhost:5432:access2:insta_db_user_e9aa6fa6:wAJEFRUUoHlb
+localhost:5432:access1:insta_db_user_e6a3b62d:ylXtkQHPUnBY
+localhost:5432:access1:insta_db_user_d5c0ff79:gcFlE5qI3YVi
+localhost:5432:access1:insta_db_user_3c0863f6:ff6D7DoP5D3Y
+localhost:5432:access1:insta_db_user_40d9ded1:cq9X7uuJns24
+localhost:5432:access1:insta_db_user_fc9e6bc9:Senqi7RMoiK3
+localhost:5432:access1:insta_db_user_f9ab7bfa:Kcg8n2jj5Pc4
+localhost:5432:access1:insta_db_user_a53face4:Z7kQeDq096dJ
+localhost:5432:access1:insta_db_user_6360d337:p7pvzwu9ys8N
+localhost:5432:access1:insta_db_user_33ac4dde:SKrWkptp5MUF
+localhost:5432:access1:insta_db_user_e4010eb7:WQFq2adXAtq7
+localhost:5432:access1:insta_db_user_39fcb17d:AQD4qLdBjtqr
+localhost:5432:access1:insta_db_user_dfe76c7a:kFPfpLy0gd3z
+localhost:5432:access1:insta_db_user_aa61afc3:LW7lFmYBKhIh
+localhost:5432:access1:insta_db_user_7a23f245:2VRMqzPmvcHj
+localhost:5432:access1:insta_db_user_e980912e:IipFWXIt4cbT
+localhost:5432:access1:insta_db_user_9633ecf9:YvuynC2sW2Cr
+localhost:5432:access2:insta_db_user_535673ee:5FqAkxANvlfI
+localhost:5432:access2:insta_db_user_602c6bb3:lKnaEVG83vLj
+localhost:5432:access2:insta_db_user_fa949e72:Far8mKxjUeaK
+localhost:5432:access2:insta_db_user_6cfcbeff:1Mq8GxmfAprn
+localhost:5432:access2:insta_db_user_53569363:2QUG5Joc7BRL
+localhost:5432:access2:insta_db_user_81ed1689:lPwD9QE2GUYJ
+localhost:5432:access2:insta_db_user_a32b48e3:1YocbTfZkALG
+localhost:5432:access2:insta_db_user_acfb5a05:xAvbITwGUrZy
+localhost:5432:access2:insta_db_user_6cf04b2d:W8NqhJKBSFic
+localhost:5432:access2:insta_db_user_155a3661:F3CD0Q3a1LRH
+localhost:5432:access2:insta_db_user_fc5cc546:GElgbYW2k4uK
+localhost:5432:access2:insta_db_user_59f38da8:QUsu3zz5EOiu
+localhost:5432:access2:insta_db_user_4338f321:0OjnBregrrfZ
+localhost:5432:access2:insta_db_user_443286ff:lZDyV0glGWLs
+localhost:5432:access2:insta_db_user_265d70e3:dwU8zmno4S9x
+localhost:5432:access2:insta_db_user_d72700d3:NWEKDMOw8hxx
+localhost:5432:access2:insta_db_user_73faa8d7:wJsY60D3dLrr
+localhost:5432:access2:insta_db_user_a2d5c861:zPIfSjjh3DFk
+localhost:5432:access2:insta_db_user_311a83ca:W0gkOQQ16Anu
+localhost:5432:access2:insta_db_user_4fdbdaf0:RkVsEGRozoki
+localhost:5432:access2:insta_db_user_0ea6f893:B5hk4qRx97Xq
+localhost:5432:access2:insta_db_user_d43dfbf6:qjEwHotfb7QC
+localhost:5432:access1:insta_db_user_bbb5be8d:HBWwATxgTdK7
+localhost:5432:access1:insta_db_user_26e3b1c4:uF0hkvXrnLmn
+localhost:5432:hms:insta_db_user_ryutta:4wnUTiwy4dD7
+localhost:5432:hms:insta_db_user_tgymnv:M6mzdFO8xAtt
+localhost:5432:hms:database_access_automation_user_nu8bzd:dWSZ3WBOjwCN
+localhost:5432:hms:insta_db_user_kjqxar:QAJwDfNkG321
+localhost:5432:hms:database_access_automation_user_6d1lk8:Z9A4ZvgdnT2A
+localhost:5432:hms:insta_db_user_6pgnxh:TwPOKfqReOfD
+localhost:5432:hms:database_access_automation_user_n5wd76:zE22E0aLBfFP
+localhost:5432:hms:insta_db_user_rjqs0a:iIYavB39S0aY
+localhost:5432:hms:database_access_automation_user_s59pw2:So94krux6qbq
+localhost:5432:hms:insta_db_user_t5ljcp:MAHdqXMworwi
+
+2024-09-16 13:51:21,792 - INFO - User 'insta_db_user_05cBup' with password '1LFAXpoG4J29' created and granted access to schema 'cen'.
+2024-09-16 13:51:21,793 - INFO - Updated .pgpass file with user credentials.
+2024-09-16 13:51:21,795 - INFO - Created user 'insta_db_user_t5ljcp' with password 'MAHdqXMworwi' for database 'hms'.
+2024-10-10 17:08:34,354 - INFO - Updating .pgpass file at: /root/.pgpass with localhost:5432:hms:database_access_automation_user_j5tjxi:paXGIHyVjmGc
+2024-10-10 17:08:34,354 - INFO - .pgpass file contents after update:
+localhost:5432:access:insta_db_user_a7767d50:MQo938ebA4NC
+localhost:5432:access:insta_db_user_101b643c:MRtAlyj6MHVh
+localhost:5432:access:insta_db_user_ad682b81:SSVwoQJmtPP9
+localhost:5432:access:insta_db_user_9df1d7aa:UIrgLqzvJOG0
+localhost:5432:access:insta_db_user_99927867:A9t3pKKnj8jG
+localhost:5432:access:insta_db_user_d9261d5c:E8SHffKGWXT6
+localhost:5432:access:insta_db_user_acffd6d1:m0ZQQ06kpUYY
+localhost:5432:access:insta_db_user_1612487a:0uPfp5iBiZrb
+localhost:5432:access:insta_db_user_6c58bb2a:PxVVVbYnKVjJ
+localhost:5432:access:insta_db_user_95793277:fb7tPjneY3ST
+localhost:5432:access:insta_db_user_0f71fa7a:V7csKfy17vS1
+localhost:5432:access:insta_db_user_093d3a1b:xgBY9RhbCYV6
+localhost:5432:access2:insta_db_user_b1046168:ybcB7Px8DtY3
+localhost:5432:access1:insta_db_user_ed8ca4b2:yXCuB9SX1LnI
+localhost:5432:access2:insta_db_user_7779a4ee:ltJvRewtIynS
+localhost:5432:access2:insta_db_user_ff91dec8:6rmeagKtOsbf
+localhost:5432:access1:insta_db_user_e2830ad9:7v1imO3ID7sv
+localhost:5432:access2:insta_db_user_31fa0174:HmNhBhoUVDN6
+localhost:5432:access1:insta_db_user_201497d6:n8gqzxFEX5NB
+localhost:5432:access1:insta_db_user_67f6ca2d:BARWh1apjRK9
+localhost:5432:access1:insta_db_user_5171af92:VbuTPvdLAaPr
+localhost:5432:access1:insta_db_user_39d7e4f9:uPDTzdy9EKFC
+localhost:5432:access1:insta_db_user_6a810735:8M9332h9jLIC
+localhost:5432:access1:insta_db_user_3c41be2b:dQw5U12308r8
+localhost:5432:access2:insta_db_user_e9aa6fa6:wAJEFRUUoHlb
+localhost:5432:access1:insta_db_user_e6a3b62d:ylXtkQHPUnBY
+localhost:5432:access1:insta_db_user_d5c0ff79:gcFlE5qI3YVi
+localhost:5432:access1:insta_db_user_3c0863f6:ff6D7DoP5D3Y
+localhost:5432:access1:insta_db_user_40d9ded1:cq9X7uuJns24
+localhost:5432:access1:insta_db_user_fc9e6bc9:Senqi7RMoiK3
+localhost:5432:access1:insta_db_user_f9ab7bfa:Kcg8n2jj5Pc4
+localhost:5432:access1:insta_db_user_a53face4:Z7kQeDq096dJ
+localhost:5432:access1:insta_db_user_6360d337:p7pvzwu9ys8N
+localhost:5432:access1:insta_db_user_33ac4dde:SKrWkptp5MUF
+localhost:5432:access1:insta_db_user_e4010eb7:WQFq2adXAtq7
+localhost:5432:access1:insta_db_user_39fcb17d:AQD4qLdBjtqr
+localhost:5432:access1:insta_db_user_dfe76c7a:kFPfpLy0gd3z
+localhost:5432:access1:insta_db_user_aa61afc3:LW7lFmYBKhIh
+localhost:5432:access1:insta_db_user_7a23f245:2VRMqzPmvcHj
+localhost:5432:access1:insta_db_user_e980912e:IipFWXIt4cbT
+localhost:5432:access1:insta_db_user_9633ecf9:YvuynC2sW2Cr
+localhost:5432:access2:insta_db_user_535673ee:5FqAkxANvlfI
+localhost:5432:access2:insta_db_user_602c6bb3:lKnaEVG83vLj
+localhost:5432:access2:insta_db_user_fa949e72:Far8mKxjUeaK
+localhost:5432:access2:insta_db_user_6cfcbeff:1Mq8GxmfAprn
+localhost:5432:access2:insta_db_user_53569363:2QUG5Joc7BRL
+localhost:5432:access2:insta_db_user_81ed1689:lPwD9QE2GUYJ
+localhost:5432:access2:insta_db_user_a32b48e3:1YocbTfZkALG
+localhost:5432:access2:insta_db_user_acfb5a05:xAvbITwGUrZy
+localhost:5432:access2:insta_db_user_6cf04b2d:W8NqhJKBSFic
+localhost:5432:access2:insta_db_user_155a3661:F3CD0Q3a1LRH
+localhost:5432:access2:insta_db_user_fc5cc546:GElgbYW2k4uK
+localhost:5432:access2:insta_db_user_59f38da8:QUsu3zz5EOiu
+localhost:5432:access2:insta_db_user_4338f321:0OjnBregrrfZ
+localhost:5432:access2:insta_db_user_443286ff:lZDyV0glGWLs
+localhost:5432:access2:insta_db_user_265d70e3:dwU8zmno4S9x
+localhost:5432:access2:insta_db_user_d72700d3:NWEKDMOw8hxx
+localhost:5432:access2:insta_db_user_73faa8d7:wJsY60D3dLrr
+localhost:5432:access2:insta_db_user_a2d5c861:zPIfSjjh3DFk
+localhost:5432:access2:insta_db_user_311a83ca:W0gkOQQ16Anu
+localhost:5432:access2:insta_db_user_4fdbdaf0:RkVsEGRozoki
+localhost:5432:access2:insta_db_user_0ea6f893:B5hk4qRx97Xq
+localhost:5432:access2:insta_db_user_d43dfbf6:qjEwHotfb7QC
+localhost:5432:access1:insta_db_user_bbb5be8d:HBWwATxgTdK7
+localhost:5432:access1:insta_db_user_26e3b1c4:uF0hkvXrnLmn
+localhost:5432:hms:insta_db_user_ryutta:4wnUTiwy4dD7
+localhost:5432:hms:insta_db_user_tgymnv:M6mzdFO8xAtt
+localhost:5432:hms:database_access_automation_user_nu8bzd:dWSZ3WBOjwCN
+localhost:5432:hms:insta_db_user_kjqxar:QAJwDfNkG321
+localhost:5432:hms:database_access_automation_user_6d1lk8:Z9A4ZvgdnT2A
+localhost:5432:hms:insta_db_user_6pgnxh:TwPOKfqReOfD
+localhost:5432:hms:database_access_automation_user_n5wd76:zE22E0aLBfFP
+localhost:5432:hms:insta_db_user_rjqs0a:iIYavB39S0aY
+localhost:5432:hms:database_access_automation_user_s59pw2:So94krux6qbq
+localhost:5432:hms:insta_db_user_t5ljcp:MAHdqXMworwi
+localhost:5432:hms:database_access_automation_user_j5tjxi:paXGIHyVjmGc
+
+2024-10-10 17:08:34,359 - INFO - Master user 'database_access_automation_user_yNcPP6' created.
+2024-10-10 17:08:34,366 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,366 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,406 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,407 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,438 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,438 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,441 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,441 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,443 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,443 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,445 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,445 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,447 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,448 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,448 - INFO - Updated .pgpass file with master user credentials.
+2024-10-10 17:08:34,459 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_yNcPP6 -d hms ||--
+2024-10-10 17:08:34,459 - INFO - Created master user 'database_access_automation_user_j5tjxi' with password 'paXGIHyVjmGc'.
+2024-10-10 17:08:34,459 - INFO - Updating .pgpass file at: /root/.pgpass with localhost:5432:hms:insta_db_user_peslc6:mb38raeXm7cL
+2024-10-10 17:08:34,459 - INFO - .pgpass file contents after update:
+localhost:5432:access:insta_db_user_a7767d50:MQo938ebA4NC
+localhost:5432:access:insta_db_user_101b643c:MRtAlyj6MHVh
+localhost:5432:access:insta_db_user_ad682b81:SSVwoQJmtPP9
+localhost:5432:access:insta_db_user_9df1d7aa:UIrgLqzvJOG0
+localhost:5432:access:insta_db_user_99927867:A9t3pKKnj8jG
+localhost:5432:access:insta_db_user_d9261d5c:E8SHffKGWXT6
+localhost:5432:access:insta_db_user_acffd6d1:m0ZQQ06kpUYY
+localhost:5432:access:insta_db_user_1612487a:0uPfp5iBiZrb
+localhost:5432:access:insta_db_user_6c58bb2a:PxVVVbYnKVjJ
+localhost:5432:access:insta_db_user_95793277:fb7tPjneY3ST
+localhost:5432:access:insta_db_user_0f71fa7a:V7csKfy17vS1
+localhost:5432:access:insta_db_user_093d3a1b:xgBY9RhbCYV6
+localhost:5432:access2:insta_db_user_b1046168:ybcB7Px8DtY3
+localhost:5432:access1:insta_db_user_ed8ca4b2:yXCuB9SX1LnI
+localhost:5432:access2:insta_db_user_7779a4ee:ltJvRewtIynS
+localhost:5432:access2:insta_db_user_ff91dec8:6rmeagKtOsbf
+localhost:5432:access1:insta_db_user_e2830ad9:7v1imO3ID7sv
+localhost:5432:access2:insta_db_user_31fa0174:HmNhBhoUVDN6
+localhost:5432:access1:insta_db_user_201497d6:n8gqzxFEX5NB
+localhost:5432:access1:insta_db_user_67f6ca2d:BARWh1apjRK9
+localhost:5432:access1:insta_db_user_5171af92:VbuTPvdLAaPr
+localhost:5432:access1:insta_db_user_39d7e4f9:uPDTzdy9EKFC
+localhost:5432:access1:insta_db_user_6a810735:8M9332h9jLIC
+localhost:5432:access1:insta_db_user_3c41be2b:dQw5U12308r8
+localhost:5432:access2:insta_db_user_e9aa6fa6:wAJEFRUUoHlb
+localhost:5432:access1:insta_db_user_e6a3b62d:ylXtkQHPUnBY
+localhost:5432:access1:insta_db_user_d5c0ff79:gcFlE5qI3YVi
+localhost:5432:access1:insta_db_user_3c0863f6:ff6D7DoP5D3Y
+localhost:5432:access1:insta_db_user_40d9ded1:cq9X7uuJns24
+localhost:5432:access1:insta_db_user_fc9e6bc9:Senqi7RMoiK3
+localhost:5432:access1:insta_db_user_f9ab7bfa:Kcg8n2jj5Pc4
+localhost:5432:access1:insta_db_user_a53face4:Z7kQeDq096dJ
+localhost:5432:access1:insta_db_user_6360d337:p7pvzwu9ys8N
+localhost:5432:access1:insta_db_user_33ac4dde:SKrWkptp5MUF
+localhost:5432:access1:insta_db_user_e4010eb7:WQFq2adXAtq7
+localhost:5432:access1:insta_db_user_39fcb17d:AQD4qLdBjtqr
+localhost:5432:access1:insta_db_user_dfe76c7a:kFPfpLy0gd3z
+localhost:5432:access1:insta_db_user_aa61afc3:LW7lFmYBKhIh
+localhost:5432:access1:insta_db_user_7a23f245:2VRMqzPmvcHj
+localhost:5432:access1:insta_db_user_e980912e:IipFWXIt4cbT
+localhost:5432:access1:insta_db_user_9633ecf9:YvuynC2sW2Cr
+localhost:5432:access2:insta_db_user_535673ee:5FqAkxANvlfI
+localhost:5432:access2:insta_db_user_602c6bb3:lKnaEVG83vLj
+localhost:5432:access2:insta_db_user_fa949e72:Far8mKxjUeaK
+localhost:5432:access2:insta_db_user_6cfcbeff:1Mq8GxmfAprn
+localhost:5432:access2:insta_db_user_53569363:2QUG5Joc7BRL
+localhost:5432:access2:insta_db_user_81ed1689:lPwD9QE2GUYJ
+localhost:5432:access2:insta_db_user_a32b48e3:1YocbTfZkALG
+localhost:5432:access2:insta_db_user_acfb5a05:xAvbITwGUrZy
+localhost:5432:access2:insta_db_user_6cf04b2d:W8NqhJKBSFic
+localhost:5432:access2:insta_db_user_155a3661:F3CD0Q3a1LRH
+localhost:5432:access2:insta_db_user_fc5cc546:GElgbYW2k4uK
+localhost:5432:access2:insta_db_user_59f38da8:QUsu3zz5EOiu
+localhost:5432:access2:insta_db_user_4338f321:0OjnBregrrfZ
+localhost:5432:access2:insta_db_user_443286ff:lZDyV0glGWLs
+localhost:5432:access2:insta_db_user_265d70e3:dwU8zmno4S9x
+localhost:5432:access2:insta_db_user_d72700d3:NWEKDMOw8hxx
+localhost:5432:access2:insta_db_user_73faa8d7:wJsY60D3dLrr
+localhost:5432:access2:insta_db_user_a2d5c861:zPIfSjjh3DFk
+localhost:5432:access2:insta_db_user_311a83ca:W0gkOQQ16Anu
+localhost:5432:access2:insta_db_user_4fdbdaf0:RkVsEGRozoki
+localhost:5432:access2:insta_db_user_0ea6f893:B5hk4qRx97Xq
+localhost:5432:access2:insta_db_user_d43dfbf6:qjEwHotfb7QC
+localhost:5432:access1:insta_db_user_bbb5be8d:HBWwATxgTdK7
+localhost:5432:access1:insta_db_user_26e3b1c4:uF0hkvXrnLmn
+localhost:5432:hms:insta_db_user_ryutta:4wnUTiwy4dD7
+localhost:5432:hms:insta_db_user_tgymnv:M6mzdFO8xAtt
+localhost:5432:hms:database_access_automation_user_nu8bzd:dWSZ3WBOjwCN
+localhost:5432:hms:insta_db_user_kjqxar:QAJwDfNkG321
+localhost:5432:hms:database_access_automation_user_6d1lk8:Z9A4ZvgdnT2A
+localhost:5432:hms:insta_db_user_6pgnxh:TwPOKfqReOfD
+localhost:5432:hms:database_access_automation_user_n5wd76:zE22E0aLBfFP
+localhost:5432:hms:insta_db_user_rjqs0a:iIYavB39S0aY
+localhost:5432:hms:database_access_automation_user_s59pw2:So94krux6qbq
+localhost:5432:hms:insta_db_user_t5ljcp:MAHdqXMworwi
+localhost:5432:hms:database_access_automation_user_j5tjxi:paXGIHyVjmGc
+localhost:5432:hms:insta_db_user_peslc6:mb38raeXm7cL
+
+2024-10-10 17:08:34,465 - INFO - User 'insta_db_user_imm89s' with password 'yPYRCVGvsUD6' created and granted access to schema 'public'.
+2024-10-10 17:08:34,465 - INFO - Updated .pgpass file with user credentials.
+2024-10-10 17:08:34,468 - INFO - Created user 'insta_db_user_peslc6' with password 'mb38raeXm7cL' for database 'hms'.

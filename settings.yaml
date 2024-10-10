@@ -1,0 +1,19 @@
+databases_file: '/testing/databases.yaml'
+
+sqlite:
+  db_files:
+    - '/testing/active_users.db'
+
+logging:
+  audit_log_file: '/testing/logs/audit.log'
+  script_log_file: '/testing/logs/script.log'
+  manage_db_log_file: '/testing/logs/manage_db.log'
+  remove_active_users_log_file: '/testing/logs/remove_active_users.log'
+
+pgpass:
+  pgpass_file_path: '/testing/.pgpass'
+
+remove_old_users:
+  default_minutes: 30
+
+

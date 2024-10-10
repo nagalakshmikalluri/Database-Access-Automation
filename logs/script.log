@@ -1,0 +1,261 @@
+2024-08-21 11:45:31,047 - INFO - Master user 'database_access_automation_user_FgoAaJ' created.
+2024-08-21 11:45:31,085 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,085 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,087 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,087 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,113 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,114 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,116 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,116 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,118 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,118 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,120 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,120 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,122 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,123 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_FgoAaJ'.
+2024-08-21 11:45:31,140 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_FgoAaJ -d hms ||--
+2024-08-21 11:45:31,146 - INFO - User 'insta_db_user_GKovOg' with password 'SvYRVkLK4XNF' created and granted access to schema 'cen'.
+2024-08-21 11:53:30,089 - INFO - Master user 'database_access_automation_user_wGYKIf' created.
+2024-08-21 11:53:30,100 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,100 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,101 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,102 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,104 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,104 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,133 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,133 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,135 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,135 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,177 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,177 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,180 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,180 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_wGYKIf'.
+2024-08-21 11:53:30,191 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_wGYKIf -d hms ||--
+2024-08-21 11:53:30,197 - INFO - User 'insta_db_user_pU3Dcj' with password '7uYBkLkwQMHb' created and granted access to schema 'cen'.
+2024-08-21 11:59:28,828 - INFO - Master user 'database_access_automation_user_830zfA' created.
+2024-08-21 11:59:28,834 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,834 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,861 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,861 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,863 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,864 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,865 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,866 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,867 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,868 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,910 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,911 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,914 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,914 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_830zfA'.
+2024-08-21 11:59:28,923 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_830zfA -d hms ||--
+2024-08-23 12:39:37,385 - INFO - Master user 'database_access_automation_user_H8jb0a' created.
+2024-08-23 12:39:37,411 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,411 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,413 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,413 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,415 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,415 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,468 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,468 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,470 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,471 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,472 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,473 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,517 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,517 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_H8jb0a'.
+2024-08-23 12:39:37,533 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_H8jb0a -d hms ||--
+2024-08-23 12:45:19,874 - INFO - Master user 'database_access_automation_user_pX0TE6' created.
+2024-08-23 12:45:19,880 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,880 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,905 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,906 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,908 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,908 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,909 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,910 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,912 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,912 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,946 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,946 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,949 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,949 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_pX0TE6'.
+2024-08-23 12:45:19,963 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_pX0TE6 -d hms ||--
+2024-08-23 12:45:19,969 - INFO - User 'insta_db_user_pqmBX2' with password 'ygUetRLvx0jJ' created and granted access to schema 'cen'.
+2024-08-23 13:04:15,727 - INFO - Master user 'database_access_automation_user_TK9pGz' created.
+2024-08-23 13:04:15,733 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,733 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,734 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,734 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,736 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,736 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,760 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,760 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,763 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,763 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,801 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,802 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,804 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,804 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_TK9pGz'.
+2024-08-23 13:04:15,816 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_TK9pGz -d hms ||--
+2024-08-23 13:04:15,821 - INFO - User 'insta_db_user_FpeUVx' with password 'Jw2oDnxVBHKL' created and granted access to schema 'cen'.
+2024-08-26 12:17:39,254 - INFO - Master user 'database_access_automation_user_PYP0SN' created.
+2024-08-26 12:17:39,345 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,346 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,349 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,349 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,351 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,351 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,353 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,353 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,355 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,355 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,357 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,357 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,392 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,393 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_PYP0SN'.
+2024-08-26 12:17:39,410 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_PYP0SN -d hms ||--
+2024-08-26 12:17:39,416 - INFO - User 'insta_db_user_BMoFe4' with password 'GNJK27jfKq6W' created and granted access to schema 'cen'.
+2024-08-27 16:46:02,548 - INFO - Master user 'database_access_automation_user_edicXs' created.
+2024-08-27 16:46:02,574 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,575 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,577 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,577 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,648 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,649 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,682 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,682 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,685 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,685 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,687 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,687 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,689 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,689 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_edicXs'.
+2024-08-27 16:46:02,702 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_edicXs -d hms ||--
+2024-08-27 16:46:02,707 - INFO - User 'insta_db_user_SJvKrI' with password 'JJBzhgmMSkWX' created and granted access to schema 'cen'.
+2024-08-27 16:55:19,785 - INFO - Master user 'database_access_automation_user_GtrdUr' created.
+2024-08-27 16:55:19,790 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,790 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,792 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,792 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,830 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,831 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,833 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,833 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,835 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,835 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,837 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,837 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,865 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,865 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_GtrdUr'.
+2024-08-27 16:55:19,883 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_GtrdUr -d hms ||--
+2024-08-27 16:55:19,888 - INFO - User 'insta_db_user_Kr7XYj' with password 'Rv4e5M7Pu18n' created and granted access to schema 'cen'.
+2024-08-27 16:57:49,257 - INFO - Master user 'database_access_automation_user_f7GTOJ' created.
+2024-08-27 16:57:49,294 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,294 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,297 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,297 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,299 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,299 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,337 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,337 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,340 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,340 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,342 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,342 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,344 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,344 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_f7GTOJ'.
+2024-08-27 16:57:49,347 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_f7GTOJ -d hms ||--
+2024-08-27 16:57:49,352 - INFO - User 'insta_db_user_91AdSu' with password 'AV5aWfIuzKdU' created and granted access to schema 'cen'.
+2024-08-27 18:00:26,766 - INFO - Master user 'database_access_automation_user_P4uHiR' created.
+2024-08-27 18:00:26,855 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,856 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,858 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,859 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,861 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,861 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,895 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,895 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,898 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,898 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,900 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,900 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,902 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,903 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_P4uHiR'.
+2024-08-27 18:00:26,920 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_P4uHiR -d hms ||--
+2024-08-27 18:00:26,925 - INFO - User 'insta_db_user_ONup5B' with password 'ZAghJOtPQvGh' created and granted access to schema 'cen'.
+2024-08-27 18:03:44,202 - INFO - Master user 'database_access_automation_user_amLen4' created.
+2024-08-27 18:03:44,245 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,245 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,247 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,248 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,249 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,250 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,252 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,252 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,299 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,299 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,302 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,302 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,306 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,307 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_amLen4'.
+2024-08-27 18:03:44,307 - INFO - Updated .pgpass file with master user credentials.
+2024-08-27 18:03:44,312 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_amLen4 -d hms ||--
+2024-08-27 18:03:44,317 - INFO - User 'insta_db_user_KGXrgb' with password '4hctKXHXq4Qi' created and granted access to schema 'cen'.
+2024-08-27 18:03:44,317 - INFO - Updated .pgpass file with user credentials.
+2024-08-27 18:08:58,891 - INFO - Master user 'database_access_automation_user_aHynZF' created.
+2024-08-27 18:08:58,934 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,935 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,937 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,937 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,939 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,939 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,971 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,971 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,974 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,974 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,976 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,976 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,978 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,979 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_aHynZF'.
+2024-08-27 18:08:58,979 - INFO - Updated .pgpass file with master user credentials.
+2024-08-27 18:08:58,988 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_aHynZF -d hms ||--
+2024-08-27 18:08:58,995 - INFO - User 'insta_db_user_zoTmI4' with password 'F1fEXgLf5JUQ' created and granted access to schema 'cen'.
+2024-08-27 18:08:58,996 - INFO - Updated .pgpass file with user credentials.
+2024-09-16 13:51:21,621 - INFO - Master user 'database_access_automation_user_pwnAc1' created.
+2024-09-16 13:51:21,721 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,722 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,725 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,725 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,726 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,727 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,729 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,729 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,767 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,768 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,770 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,771 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,773 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,773 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_pwnAc1'.
+2024-09-16 13:51:21,773 - INFO - Updated .pgpass file with master user credentials.
+2024-09-16 13:51:21,788 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_pwnAc1 -d hms ||--
+2024-09-16 13:51:21,792 - INFO - User 'insta_db_user_05cBup' with password '1LFAXpoG4J29' created and granted access to schema 'cen'.
+2024-09-16 13:51:21,793 - INFO - Updated .pgpass file with user credentials.
+2024-10-10 17:08:34,359 - INFO - Master user 'database_access_automation_user_yNcPP6' created.
+2024-10-10 17:08:34,366 - INFO - Granted USAGE on schema 'pg_temp_1' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,366 - INFO - Granted default SELECT privileges on future tables in schema 'pg_temp_1' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,406 - INFO - Granted USAGE on schema 'cen' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,407 - INFO - Granted default SELECT privileges on future tables in schema 'cen' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,438 - INFO - Granted USAGE on schema 'cenlocal' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,438 - INFO - Granted default SELECT privileges on future tables in schema 'cenlocal' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,441 - INFO - Granted USAGE on schema 'pg_toast' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,441 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,443 - INFO - Granted USAGE on schema 'pg_toast_temp_1' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,443 - INFO - Granted default SELECT privileges on future tables in schema 'pg_toast_temp_1' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,445 - INFO - Granted USAGE on schema 'public' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,445 - INFO - Granted default SELECT privileges on future tables in schema 'public' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,447 - INFO - Granted USAGE on schema 'extensions' and SELECT on all tables to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,448 - INFO - Granted default SELECT privileges on future tables in schema 'extensions' to 'database_access_automation_user_yNcPP6'.
+2024-10-10 17:08:34,448 - INFO - Updated .pgpass file with master user credentials.
+2024-10-10 17:08:34,459 - INFO - Connection string for master user --|| psql -h localhost -U database_access_automation_user_yNcPP6 -d hms ||--
+2024-10-10 17:08:34,465 - INFO - User 'insta_db_user_imm89s' with password 'yPYRCVGvsUD6' created and granted access to schema 'public'.
+2024-10-10 17:08:34,465 - INFO - Updated .pgpass file with user credentials.

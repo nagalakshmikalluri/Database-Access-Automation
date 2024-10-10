@@ -1,0 +1,25 @@
+databases:
+  postgres:
+    - friendly_name: hms
+      user: postgres
+      password: naveen123
+      host: localhost
+      port: 5432  # Optional
+      dbname: hms
+
+    - friendly_name: hms_q
+      user: postgres
+      password: naveen123
+      host: localhost1
+      port: 5432  # Optional
+      dbname: hms_q
+#database_access_automation_user_830zfA
+    - friendly_name: hms_qeee
+      user: database_access_automation_user_0Ohs09
+      #password: naveen123
+      host: localhost
+      port: 5432  # Optional
+      dbname: hms_qeee
+
+
+

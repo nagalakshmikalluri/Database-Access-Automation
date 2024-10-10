@@ -1,0 +1,17 @@
+sudo python3 manage_db.py --create_temporary_user --dbname hms --schema cen --host localhost --databases_file databases.yaml
+
+
+sudo python3 manage_db.py --delete_temporary_user --dbname mydb
+
+
+sudo python3 manage_db.py --grant_access_to_temporary_user --dbname mydb --schema myschema
+
+
+sudo python3 manage_db.py --list_databases
+
+
+
+
+sudo python3 manage_db.py --delete_expired_temporary_users
+
+
